@@ -68,7 +68,7 @@ ___result like image below___
 
 ## Styling Guide 
 - if you want to apply custom style here's some helpful details about css classess
-1. `str` = style of string data type
+1. `str` = style of string data type - default `color: red`
 2. `fn` = style of function data type - default `color: blue` 
 3. `num` = style of number data type - default `color: royalblue` 
 4. `bool` = style of boolean data type - default `color: royalblue`
