@@ -10,7 +10,7 @@
 ## Usage
 - firstly download include the script and the css file in your document
 - be sure that the files at the same folder - if you put them inside another folder change the file path
-```
+```html
 <link rel="stylesheet" type="text/css" href="./console.css">
 <script src="./console.js"></script>
 ```
@@ -20,11 +20,11 @@
 - you can use it for checking value or deferant data types
 
 __Example__
-```
+```js
 console.log(1 > 2) //result: false
 ```
 - also you can check nested objects, array's 
-```
+```js
 var obj = {
     "a": 123,
     "b": 456,
