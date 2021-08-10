@@ -61,7 +61,8 @@ console.log(sum(2, 4))//result 6
 ```js
 console.log(1 > 2, typeof "", parseInt("22") + 4)
 ```
-- result like image below
+
+___result like image below___
 
 ![](https://github.com/mahmoud01x/Web-Console.log-js/blob/main/res.PNG)
 
