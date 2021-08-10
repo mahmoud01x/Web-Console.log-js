@@ -22,3 +22,6 @@
 .summary-value {
 	color: #000;
 }
+details {
+	-webkit-tap-highlight-color: transparent;
+}
