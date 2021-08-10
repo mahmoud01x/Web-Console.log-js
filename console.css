@@ -1,0 +1,24 @@
+.str {
+	color: red;
+}
+.num, .bool {
+	color: royalblue;
+}
+.prop, .details-summary-text {
+	color: rgb(203, 20, 216);
+}
+.null {
+	color: #333;
+}
+.fn {
+	color: blue;
+}
+.details-summary {
+	color: indigo;
+}
+.summary-prop {
+
+}
+.summary-value {
+	color: #000;
+}

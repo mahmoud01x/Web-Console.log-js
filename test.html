@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+	 <title></title>
+	 <meta charset="utf-8">
+ </head>
+	 <body>
+	 <div id="res"></div>
+     <link rel="stylesheet" type="text/css" href="./console.css">
+     <script src="./console.js"></script>
+		<script>
+            console.log("string");
+            console.log(""+123 + " " + 888 + "ok");
+            console.log(123);
+            var obj = {
+                "a": 123,
+                "b": 456,
+                "arr": [1,5,4,8, {
+                    nested: "object",
+                    draft: "ok"
+                }]
+            }
+            var arr = [45,45,48,4,54,45, {
+                a: 5445,
+                b: 454
+            }]
+            var fn = function() {
+                return 123
+            }
+            console.log(fn)
+            console.log(arr)
+            console.log(obj)
+            console.log(1 > 2)
+            var res = document.getElementById("res");
+            console.log(res);
+		</script>
+	 </body>
+ </html>
