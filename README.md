@@ -10,7 +10,7 @@
 ## Usage
 - firstly download, include script and css file in your page
 - be sure that the files at the same folder - if you put them inside another folder change the file path
-- one it's included into your page it's will append a new element called `log` to the body who will be used to output the console results
+- once it's included into your page it's will append a new element called `log` to the `body` who will be used to output the console results
 ```html
 <link rel="stylesheet" type="text/css" href="./console.css">
 <script src="./console.js"></script>
