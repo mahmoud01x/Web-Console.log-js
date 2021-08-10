@@ -17,7 +17,7 @@
 ### How to use it
 - it's so simple just `console.log(yourData)`
 ### Usage Examples
-- you can use it for checking value or deferant data types
+- you can use it for comparsion operations
 
 __Example__
 ```js
