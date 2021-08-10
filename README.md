@@ -51,6 +51,17 @@ var res = document.getElementById("results");
 console.log(res); //result will be the dom object check it
 ```
 
+##Styling Guide 
+- if you want to apply custom style here's some helpful details about classess
+   1. `str` = style of string data type
+   2. `fn` = style of function data type - default `color: blue` 
+   3. `num` = style of number data type - default `color: royalblue` 
+   4. `bool` = style of boolean data type - default `color: royalblue`
+   5. `prop` = style of object properties (object keys) - default `color: rgb(203, 20, 216)/* pink */`
+   6. `null` = style of null data type - default `color: #333`
+   7. `details-summary` = style of (object|array) data type - default `color: indigo`
+   8. `details-summary` = style of (object|array) description value data type - default `color: #000`
+
 ## Updates
 - __Beta Version__
 - This script still under develop maybe there's some mistakes need to be solved so anyone welcome to commit on this project
