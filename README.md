@@ -50,6 +50,20 @@ __JS__
 var res = document.getElementById("results");
 console.log(res); //result will be the dom object check it
 ```
+- you can check the functons output
+```js
+function sum(a, b) {
+  return a + b
+}
+console.log(sum(2, 4))//result 6
+```
+- also you can use comma seprator to check deferant data types at same time - but here every seperator will be in a new block element not in the same line like web console
+```js
+console.log(1 > 2, typeof "", parseInt("22") + 4)
+```
+- result like image below
+
+![](https://github.com/mahmoud01x/Web-Console.log-js/blob/main/res.PNG)
 
 ## Styling Guide 
 - if you want to apply custom style here's some helpful details about css classess
