@@ -1,7 +1,7 @@
 # Web-Console.log-js
 ## Overview
-- Later some web developers uses their phone for coding but coding without any debug log is soo hard maybe a small mistake stop the whole code
-- so that's why this tool is made to help web programmers in debugging their code and testing deferant data types
+- Later some web developers uses their phone for coding but coding without any debug log is so hard maybe a simple mistake stopping the whole code
+- That's why this tool is made to help web dev's in debugging their code and testing deferant data types
 -  this tool overriding the `console.log` method and create a semulator for `console.log`  that will display any errors happend in the code and also checking deferant data types like the normal usage of `console.log` method 
     ### This Repo consist of 2 files
        1. console.js > that's uses for apply the `console.log` script in the document
