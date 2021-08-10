@@ -42,11 +42,11 @@ __Result will be like the image below__
 - checking html elements dom object
 
 __HTML__
-```
+```html
 <div id="results"></div>
 ```
 __JS__
-```
+```js
 var res = document.getElementById("results");
 console.log(res); //result will be the dom object check it
 ```
