@@ -8,7 +8,7 @@
        2. console.css > that's uses for highlight the data types you can easily modify it and create your custom style
 > Note: before usage this script should to be at the first of your scripts to be able to use it otherwise you won't be able to use it and if there's mistakes in your code it's won't displayed
 ## Usage
-- firstly download include the script and the css file in your document
+- firstly download include script and css file in your page
 - be sure that the files at the same folder - if you put them inside another folder change the file path
 ```html
 <link rel="stylesheet" type="text/css" href="./console.css">
