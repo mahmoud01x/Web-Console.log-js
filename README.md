@@ -37,7 +37,7 @@ console.log(obj)
 ```
 __Result will be like the image below__
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+![](https://github.com/mahmoud01x/Web-Console.log-js/blob/main/obj.PNG)
 
 - checking html elements dom object
 
