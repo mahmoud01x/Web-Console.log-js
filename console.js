@@ -145,7 +145,7 @@ console.log = function() {
           )
         }
       },
-      dom: function dom(i) {
+      dom: function(i) {
         var domHightlighter = [],
         contents = ["innerHTML" , "innerText" , "textContent", "outerText", "outerHTML"]
         for (var q in i) {
